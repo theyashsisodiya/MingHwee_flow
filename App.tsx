@@ -19,7 +19,7 @@ const App: React.FC = () => {
   const getSubtitle = () => {
     switch(activeView) {
       case 'singapore':
-        return "Visualizing the Mingvi.com Singapore Employer Journey";
+        return "Visualizing the MingHwee.com";
       case 'philippines':
         return "Visualizing the MingHwee.com Philippines Employer Journey";
       case 'admin':
